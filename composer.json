@@ -1,0 +1,16 @@
+{
+    "name": "mathiasmaciossek/hft-vl-06-examples",
+    "type": "project",
+    "require": {
+        "raveren/kint": "^1.1"
+    },
+    "autoload": {
+        "psr-4": { "": "src/" }
+    },
+    "authors": [
+        {
+            "name": "Mathias Maciossek",
+            "email": "mathias.maciossek@gmail.com"
+        }
+    ]
+}
