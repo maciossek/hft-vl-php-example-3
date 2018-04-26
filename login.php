@@ -4,7 +4,7 @@ session_start();
 
 $user = 'root';
 $password = 'root';
-$db = 'hft-06-03';
+$db = 'temp';
 $host = 'localhost';
 $port = 8889;
 
